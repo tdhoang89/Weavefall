@@ -1,0 +1,825 @@
+{
+ "atlas_wonder": {
+  "file": "audio/atlas_wonder.m4a",
+  "lufs": -21,
+  "tp": -3.7,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 879793
+ },
+ "battle_r01": {
+  "file": "audio/battle_r01.m4a",
+  "lufs": -18.2,
+  "tp": -5.8,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1377038
+ },
+ "battle_r02": {
+  "file": "audio/battle_r02.m4a",
+  "lufs": -18.2,
+  "tp": -4.9,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1386541
+ },
+ "battle_r04": {
+  "file": "audio/battle_r04.m4a",
+  "lufs": -18.3,
+  "tp": -5.5,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1377201
+ },
+ "battle_r08": {
+  "file": "audio/battle_r08.m4a",
+  "lufs": -18.2,
+  "tp": -2.8,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1377901
+ },
+ "battle_r10": {
+  "file": "audio/battle_r10.m4a",
+  "lufs": -18.3,
+  "tp": -5.7,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1386240
+ },
+ "battle_r12": {
+  "file": "audio/battle_r12.m4a",
+  "lufs": -18.2,
+  "tp": -4.1,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1413767
+ },
+ "blitz_1": {
+  "file": "audio/blitz_1.m4a",
+  "lufs": -17.4,
+  "tp": -2.5,
+  "target": -17,
+  "mood": "bright",
+  "kbps": 80,
+  "bytes": 1390248
+ },
+ "blitz_2": {
+  "file": "audio/blitz_2.m4a",
+  "lufs": -17.3,
+  "tp": -3.7,
+  "target": -17,
+  "mood": "bright",
+  "kbps": 80,
+  "bytes": 1386274
+ },
+ "boss_a": {
+  "file": "audio/boss_a.m4a",
+  "lufs": -18.3,
+  "tp": -6,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1377718
+ },
+ "boss_b": {
+  "file": "audio/boss_b.m4a",
+  "lufs": -18.3,
+  "tp": -5.4,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1378594
+ },
+ "cs_sorrow": {
+  "file": "audio/cs_sorrow.m4a",
+  "lufs": -21,
+  "tp": -3.2,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 570410
+ },
+ "cs_triumph": {
+  "file": "audio/cs_triumph.m4a",
+  "lufs": -21.1,
+  "tp": -6.5,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 1111673
+ },
+ "hub_loomhold": {
+  "file": "audio/hub_loomhold.m4a",
+  "lufs": -21,
+  "tp": -7.5,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 1109710
+ },
+ "map_r00": {
+  "file": "audio/map_r00.m4a",
+  "lufs": -21,
+  "tp": -3.8,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 876892
+ },
+ "map_r01": {
+  "file": "audio/map_r01.m4a",
+  "lufs": -21.1,
+  "tp": -7.3,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 1109886
+ },
+ "map_r02": {
+  "file": "audio/map_r02.m4a",
+  "lufs": -21,
+  "tp": -7.1,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 1111598
+ },
+ "map_r04": {
+  "file": "audio/map_r04.m4a",
+  "lufs": -21.1,
+  "tp": -7.3,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 1110770
+ },
+ "map_r08": {
+  "file": "audio/map_r08.m4a",
+  "lufs": -21,
+  "tp": -5.9,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 1114800
+ },
+ "map_r10": {
+  "file": "audio/map_r10.m4a",
+  "lufs": -21.1,
+  "tp": -7.3,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 1111339
+ },
+ "spire_1": {
+  "file": "audio/spire_1.m4a",
+  "lufs": -18.2,
+  "tp": -5.8,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1384815
+ },
+ "spire_2": {
+  "file": "audio/spire_2.m4a",
+  "lufs": -18.3,
+  "tp": -6.2,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1382450
+ },
+ "tapestry_1": {
+  "file": "audio/tapestry_1.m4a",
+  "lufs": -21,
+  "tp": -6.8,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 1134250
+ },
+ "tapestry_2": {
+  "file": "audio/tapestry_2.m4a",
+  "lufs": -21.1,
+  "tp": -5,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 1112550
+ },
+ "zen_1": {
+  "file": "audio/zen_1.m4a",
+  "lufs": -21.1,
+  "tp": -5.4,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 1109613
+ },
+ "zen_2": {
+  "file": "audio/zen_2.m4a",
+  "lufs": -21.1,
+  "tp": -4.6,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 1113161
+ },
+ "zen_3": {
+  "file": "audio/zen_3.m4a",
+  "lufs": -20.9,
+  "tp": -4.6,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 831042
+ },
+ "cs_tension": {
+  "file": "audio/cs_tension.m4a",
+  "lufs": -21.1,
+  "tp": -7.9,
+  "target": -21,
+  "mood": "cutscene",
+  "kbps": 64,
+  "bytes": 628051,
+  "loop": true,
+  "region": {
+   "mode": "underscore-loop",
+   "start": 15.84,
+   "seconds": 76.35,
+   "score": 0.8072,
+   "onset": 0.398,
+   "crossfade_s": 2,
+   "active": [
+    0.7,
+    103.51
+   ]
+  }
+ },
+ "map_r03": {
+  "file": "audio/map_r03.m4a",
+  "lufs": -21.1,
+  "tp": -7.9,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 962067,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 27.82,
+   "seconds": 116.87,
+   "score": 0.7302,
+   "onset": 0.3787,
+   "crossfade_s": 3,
+   "active": [
+    0.65,
+    164.29
+   ]
+  }
+ },
+ "st_boss_intro": {
+  "file": "audio/st_boss_intro.m4a",
+  "lufs": -18,
+  "tp": -6.7,
+  "target": -18,
+  "mood": "stinger",
+  "kbps": 64,
+  "bytes": 55096,
+  "loop": false,
+  "region": {
+   "mode": "stinger",
+   "start": 0.1,
+   "seconds": 6.62,
+   "natural": true
+  }
+ },
+ "st_victory": {
+  "file": "audio/st_victory.m4a",
+  "lufs": -18.1,
+  "tp": -1.8,
+  "target": -18,
+  "mood": "stinger",
+  "kbps": 64,
+  "bytes": 50762,
+  "loop": false,
+  "region": {
+   "mode": "stinger",
+   "start": 1.2,
+   "seconds": 6.07,
+   "natural": false
+  }
+ },
+ "arena_1": {
+  "file": "audio/arena_1.m4a",
+  "lufs": -18.3,
+  "tp": -6.4,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1017347,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 22.06,
+   "seconds": 99.59,
+   "score": 0.838,
+   "onset": 0.3704,
+   "crossfade_s": 1.82,
+   "active": [
+    0.15,
+    163.4
+   ]
+  }
+ },
+ "battle_r00": {
+  "file": "audio/battle_r00.m4a",
+  "lufs": -18.3,
+  "tp": -7.2,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1012350,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 54.29,
+   "seconds": 99.08,
+   "score": 0.8546,
+   "onset": 0.376,
+   "crossfade_s": 1.94,
+   "active": [
+    0.15,
+    163.67
+   ]
+  }
+ },
+ "battle_r03": {
+  "file": "audio/battle_r03.m4a",
+  "lufs": -18.2,
+  "tp": -6.3,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1159123,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 31.63,
+   "seconds": 113.48,
+   "score": 0.8182,
+   "onset": 0.3419,
+   "crossfade_s": 1.88,
+   "active": [
+    0.65,
+    163.17
+   ]
+  }
+ },
+ "battle_r05": {
+  "file": "audio/battle_r05.m4a",
+  "lufs": -18.3,
+  "tp": -6.9,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1263628,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 14.81,
+   "seconds": 123.67,
+   "score": 0.8411,
+   "onset": 0.4137,
+   "crossfade_s": 1.79,
+   "active": [
+    0.15,
+    164.43
+   ]
+  }
+ },
+ "battle_r06": {
+  "file": "audio/battle_r06.m4a",
+  "lufs": -18.3,
+  "tp": -6.8,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1089242,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 26.89,
+   "seconds": 106.6,
+   "score": 0.879,
+   "onset": 0.4172,
+   "crossfade_s": 1.88,
+   "active": [
+    1.05,
+    165.16
+   ]
+  }
+ },
+ "battle_r07": {
+  "file": "audio/battle_r07.m4a",
+  "lufs": -18.3,
+  "tp": -6.8,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1028071,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 36.08,
+   "seconds": 100.54,
+   "score": 0.8787,
+   "onset": 0.3998,
+   "crossfade_s": 1.9,
+   "active": [
+    0.8,
+    163.95
+   ]
+  }
+ },
+ "battle_r09": {
+  "file": "audio/battle_r09.m4a",
+  "lufs": -18.3,
+  "tp": -6.1,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1218150,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 33.02,
+   "seconds": 119.19,
+   "score": 0.8446,
+   "onset": 0.3118,
+   "crossfade_s": 1.76,
+   "active": [
+    0.2,
+    164.36
+   ]
+  }
+ },
+ "battle_r11": {
+  "file": "audio/battle_r11.m4a",
+  "lufs": -18.3,
+  "tp": -6.6,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1120910,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 35.71,
+   "seconds": 109.71,
+   "score": 0.8598,
+   "onset": 0.4284,
+   "crossfade_s": 1.79,
+   "active": [
+    0.45,
+    164.7
+   ]
+  }
+ },
+ "boss_c": {
+  "file": "audio/boss_c.m4a",
+  "lufs": -18.3,
+  "tp": -6.5,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1134284,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 20.94,
+   "seconds": 110.99,
+   "score": 0.8228,
+   "onset": 0.4004,
+   "crossfade_s": 1.62,
+   "active": [
+    0.15,
+    164.22
+   ]
+  }
+ },
+ "cs_wonder": {
+  "file": "audio/cs_wonder.m4a",
+  "lufs": -21.2,
+  "tp": -8,
+  "target": -21,
+  "mood": "cutscene",
+  "kbps": 64,
+  "bytes": 606737,
+  "loop": true,
+  "region": {
+   "mode": "underscore-loop",
+   "start": 11.66,
+   "seconds": 73.79,
+   "score": 0.7789,
+   "onset": 0.4625,
+   "crossfade_s": 2,
+   "active": [
+    0.1,
+    96.75
+   ]
+  }
+ },
+ "final_p1": {
+  "file": "audio/final_p1.m4a",
+  "lufs": -18.3,
+  "tp": -6.9,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1042946,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 27.26,
+   "seconds": 102.07,
+   "score": 0.8925,
+   "onset": 0.4691,
+   "crossfade_s": 2,
+   "active": [
+    0.2,
+    163.37
+   ]
+  }
+ },
+ "final_p2": {
+  "file": "audio/final_p2.m4a",
+  "lufs": -18.3,
+  "tp": -7.1,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 947096,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 38.87,
+   "seconds": 92.72,
+   "score": 0.8993,
+   "onset": 0.3939,
+   "crossfade_s": 1.82,
+   "active": [
+    0.2,
+    164.37
+   ]
+  }
+ },
+ "final_p3": {
+  "file": "audio/final_p3.m4a",
+  "lufs": -18.3,
+  "tp": -6.8,
+  "target": -18,
+  "mood": "war",
+  "kbps": 80,
+  "bytes": 1040973,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 44.26,
+   "seconds": 101.89,
+   "score": 0.8737,
+   "onset": 0.3816,
+   "crossfade_s": 1.67,
+   "active": [
+    0.55,
+    164.05
+   ]
+  }
+ },
+ "map_r05": {
+  "file": "audio/map_r05.m4a",
+  "lufs": -21.1,
+  "tp": -7.6,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 793497,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 40.63,
+   "seconds": 96.13,
+   "score": 0.7371,
+   "onset": 0.4453,
+   "crossfade_s": 3,
+   "active": [
+    1,
+    163.87
+   ]
+  }
+ },
+ "map_r06": {
+  "file": "audio/map_r06.m4a",
+  "lufs": -21,
+  "tp": -6.9,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 914014,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 30.98,
+   "seconds": 110.2,
+   "score": 0.7694,
+   "onset": 0.3153,
+   "crossfade_s": 3,
+   "active": [
+    0.45,
+    163.52
+   ]
+  }
+ },
+ "map_r07": {
+  "file": "audio/map_r07.m4a",
+  "lufs": -21.1,
+  "tp": -7.5,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 915192,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 27.26,
+   "seconds": 111.32,
+   "score": 0.815,
+   "onset": 0.4928,
+   "crossfade_s": 3,
+   "active": [
+    0.9,
+    163.25
+   ]
+  }
+ },
+ "map_r09": {
+  "file": "audio/map_r09.m4a",
+  "lufs": -21.1,
+  "tp": -9,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 803941,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 38.03,
+   "seconds": 97.8,
+   "score": 0.8051,
+   "onset": 0.4352,
+   "crossfade_s": 3,
+   "active": [
+    0.1,
+    163.93
+   ]
+  }
+ },
+ "map_r11": {
+  "file": "audio/map_r11.m4a",
+  "lufs": -21.1,
+  "tp": -9.3,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 876713,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 32.83,
+   "seconds": 106.65,
+   "score": 0.7405,
+   "onset": 0.4184,
+   "crossfade_s": 3,
+   "active": [
+    0.1,
+    163.62
+   ]
+  }
+ },
+ "map_r12": {
+  "file": "audio/map_r12.m4a",
+  "lufs": -21.1,
+  "tp": -9.2,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 792257,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 38.13,
+   "seconds": 96.39,
+   "score": 0.7793,
+   "onset": 0.3681,
+   "crossfade_s": 3,
+   "active": [
+    0.15,
+    162.92
+   ]
+  }
+ },
+ "st_defeat": {
+  "file": "audio/st_defeat.m4a",
+  "lufs": -18.3,
+  "tp": -5.5,
+  "target": -18,
+  "mood": "stinger",
+  "kbps": 64,
+  "bytes": 34758,
+  "loop": false,
+  "region": {
+   "mode": "stinger",
+   "start": 0.2,
+   "seconds": 4.12,
+   "natural": false
+  }
+ },
+ "st_levelup": {
+  "file": "audio/st_levelup.m4a",
+  "lufs": -18.8,
+  "tp": -6,
+  "target": -18,
+  "mood": "stinger",
+  "kbps": 64,
+  "bytes": 41758,
+  "loop": false,
+  "region": {
+   "mode": "stinger",
+   "start": 0.1,
+   "seconds": 4.97,
+   "natural": false
+  }
+ },
+ "st_rankup": {
+  "file": "audio/st_rankup.m4a",
+  "lufs": -18.3,
+  "tp": -6.4,
+  "target": -18,
+  "mood": "stinger",
+  "kbps": 64,
+  "bytes": 64269,
+  "loop": false,
+  "region": {
+   "mode": "stinger",
+   "start": 0.1,
+   "seconds": 7.72,
+   "natural": false
+  }
+ },
+ "st_realm_clear": {
+  "file": "audio/st_realm_clear.m4a",
+  "lufs": -18.6,
+  "tp": -5.1,
+  "target": -18,
+  "mood": "stinger",
+  "kbps": 64,
+  "bytes": 49586,
+  "loop": false,
+  "region": {
+   "mode": "stinger",
+   "start": 0.1,
+   "seconds": 5.92,
+   "natural": false
+  }
+ },
+ "title_main": {
+  "file": "audio/title_main.m4a",
+  "lufs": -21.2,
+  "tp": -8.6,
+  "target": -21,
+  "mood": "calm",
+  "kbps": 64,
+  "bytes": 997930,
+  "loop": true,
+  "region": {
+   "mode": "loop",
+   "start": 24.01,
+   "seconds": 121.35,
+   "score": 0.8532,
+   "onset": 0.3596,
+   "crossfade_s": 2.61,
+   "active": [
+    0,
+    164.57
+   ]
+  }
+ }
+}
